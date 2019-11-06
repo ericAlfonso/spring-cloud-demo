@@ -1,2 +1,2 @@
-# spring-cloud-demo
+# spring-cloud-microservices
 Spring Cloud Config Server
